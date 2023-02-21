@@ -1,0 +1,8 @@
+textarea {
+  resize: none;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  border-bottom: 1px solid black;
+  user-select: none;
+  -moz-user-select: none;
+}
